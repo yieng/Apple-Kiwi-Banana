@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-276.825 -401 72 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-icon3_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: ArialNarrow, Arial Narrow;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 59.813 59.813;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 60;
+      }
+    </style>
+    <clipPath id="clip-icon3_1">
+      <rect x="-276.825" y="-401" width="72" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="icon3_1" data-name="icon3 – 1" class="cls-1">
+    <rect class="cls-3" x="-276.825" y="-401" width="72" height="60"/>
+    <text id="VenueConnect" class="cls-2" transform="translate(-240.825 -343.5)"><tspan x="-32.282" y="0">VenueConnect</tspan></text>
+    <g id="Group_54" data-name="Group 54" transform="translate(-255.544 -386.989)">
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-3" cx="4.67" cy="4.67" rx="4.67" ry="4.67" transform="translate(10.127 11.878)"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" class="cls-3" cx="2.36" cy="2.36" rx="2.36" ry="2.36" transform="translate(1.548 3.325)"/>
+      <ellipse id="Ellipse_10" data-name="Ellipse 10" class="cls-3" cx="2.36" cy="2.36" rx="2.36" ry="2.36" transform="translate(17.944)"/>
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" class="cls-3" cx="2.36" cy="2.36" rx="2.36" ry="2.36" transform="translate(25.279 13.046)"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-3" cx="2.36" cy="2.36" rx="2.36" ry="2.36" transform="translate(13.985 27.64)"/>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" class="cls-3" cx="2.36" cy="2.36" rx="2.36" ry="2.36" transform="translate(0 18.528)"/>
+      <g id="Group_53" data-name="Group 53" transform="translate(3.858 6.015)">
+        <g id="Group_52" data-name="Group 52">
+          <line id="Line_26" data-name="Line 26" class="cls-4" x2="0.548" y2="0.528"/>
+          <line id="Line_27" data-name="Line 27" class="cls-5" x2="8.201" y2="7.896" transform="translate(1.642 1.581)"/>
+          <line id="Line_28" data-name="Line 28" class="cls-4" x2="0.548" y2="0.528" transform="translate(10.391 10.005)"/>
+        </g>
+      </g>
+      <line id="Line_29" data-name="Line 29" class="cls-6" y1="4.34" x2="12.437" transform="translate(2.36 16.548)"/>
+      <line id="Line_30" data-name="Line 30" class="cls-6" x1="1.548" y1="13.452" transform="translate(14.797 16.548)"/>
+      <line id="Line_31" data-name="Line 31" class="cls-6" x1="12.843" y2="1.142" transform="translate(14.797 15.406)"/>
+      <line id="Line_32" data-name="Line 32" class="cls-6" x1="5.508" y2="14.188" transform="translate(14.797 2.36)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-202.153 -401 72 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-icon4_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: ArialNarrow, Arial Narrow;
+      }
+    </style>
+    <clipPath id="clip-icon4_1">
+      <rect x="-202.153" y="-401" width="72" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="icon4_1" data-name="icon4 – 1" class="cls-1">
+    <rect class="cls-3" x="-202.153" y="-401" width="72" height="60"/>
+    <text id="ScanCard" class="cls-2" transform="translate(-166.153 -343.5)"><tspan x="-21.876" y="0">ScanCard</tspan></text>
+    <g id="Group_8" data-name="Group 8" transform="translate(-181.27 -381.462)">
+      <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-3" width="21.544" height="12.105" transform="translate(4.239 4.239)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-3" width="21.544" height="12.105" transform="translate(4.239 4.239)"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-3" width="21.544" height="12.105" transform="translate(4.239 4.239)"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-3" width="21.544" height="12.105" transform="translate(4.239 4.239)"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-3" width="21.544" height="12.105" transform="translate(4.239 4.239)"/>
+      <path id="Path_15" data-name="Path 15" class="cls-3" d="M4.239,0V1.455H1.455V4.239H0V0Z"/>
+      <path id="Path_16" data-name="Path 16" class="cls-3" d="M0,747H1.455v2.784H4.239v1.455H0Z" transform="translate(0 -730.678)"/>
+      <path id="Path_17" data-name="Path 17" class="cls-3" d="M1184.217,4.217h-1.446V1.446H1180V0h4.217Z" transform="translate(-1154.217)"/>
+      <path id="Path_18" data-name="Path 18" class="cls-3" d="M1180,752.217v-1.447h2.771V748h1.446v4.217Z" transform="translate(-1154.217 -731.656)"/>
+    </g>
+  </g>
+</svg>
