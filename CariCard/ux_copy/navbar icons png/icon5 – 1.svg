@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-127.48 -401 72 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-icon5_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: ArialNarrow, Arial Narrow;
+      }
+    </style>
+    <clipPath id="clip-icon5_1">
+      <rect x="-127.48" y="-401" width="72" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="icon5_1" data-name="icon5 – 1" class="cls-1">
+    <rect class="cls-3" x="-127.48" y="-401" width="72" height="60"/>
+    <text id="History" class="cls-2" transform="translate(-91.242 -343.5)"><tspan x="-15.308" y="0">History</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(-106.4 -385.599)">
+      <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-3" width="6.589" height="20.549" transform="translate(11.706 9.148)"/>
+      <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-3" width="6.589" height="8.819" transform="translate(0 20.879)"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-3" width="6.589" height="30" transform="translate(23.411)"/>
+    </g>
+  </g>
+</svg>

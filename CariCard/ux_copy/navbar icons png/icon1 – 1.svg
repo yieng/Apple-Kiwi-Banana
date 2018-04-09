@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-430 -401 72 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-icon1_1);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: ArialNarrow, Arial Narrow;
+      }
+    </style>
+    <clipPath id="clip-icon1_1">
+      <rect x="-430" y="-401" width="72" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="icon1_1" data-name="icon1 – 1" class="cls-1">
+    <rect class="cls-3" x="-430" y="-401" width="72" height="60"/>
+    <text id="Home" class="cls-2" transform="translate(-394 -343.5)"><tspan x="-13.122" y="0">Home</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(-408.992 -386.128)">
+      <path id="Path_1" data-name="Path 1" class="cls-3" d="M30,374.049H0a17.247,17.247,0,0,1,5.745-13.026,11.159,11.159,0,0,0,9.233,5.142A11.161,11.161,0,0,0,24.229,361,17.26,17.26,0,0,1,30,374.049Z" transform="translate(0 -344.049)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-3" d="M169.973,9.391a10.021,10.021,0,0,1-1.791,5.771,8,8,0,0,1-13.379.019,10.016,10.016,0,0,1-1.8-5.79C153,4.2,156.8,0,161.487,0S169.973,4.2,169.973,9.391Z" transform="translate(-146.508)"/>
+    </g>
+  </g>
+</svg>
